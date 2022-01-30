@@ -1,6 +1,10 @@
 ## Olá! Eu sou o Nícolas 👋
 
+Criei este perfil para arquivar minhas atividades e projetos
+
 - Estudando front-end
+- Animado para o futuro
+<br>
 
 <div align="center">
   <a href="https://github.com/NicolasOlivr">
