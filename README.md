@@ -31,7 +31,3 @@ Criei este perfil para arquivar minhas atividades e projetos
 </section>
   
   <br>
-  
-<div>
-  Foto de Perfil por: <a href="https://www.freepik.com/author/macrovector">macrovector_official/Freepik</a>
-</div>
