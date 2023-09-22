@@ -1,33 +1,30 @@
-## Olá! Eu sou o Nícolas 👋
+# Karpa
 
-Criei este perfil para arquivar minhas atividades e projetos
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1E91FF&background=755D2415&vCenter=true&width=435&height=40&lines=%2F%2F+Bem+Vindo!;%2F%2F+Aproveite+o+tempo+aqui.;%2F%2F+Te+desejo+um+%C3%B3timo+dia!)](https://git.io/typing-svg)
 
-- Estudando front-end
-- Animado para o futuro
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=77A1FF&background=755D2415&center=true&vCenter=true&width=500&height=32&lines=Estudando...)](https://git.io/typing-svg)
 
-<section>
-  <div align="center">
-    <a href="https://github.com/KingKarpa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KingKarpa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingKarpa&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
-</section>
-  
-<section>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Ico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Ico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Ico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
-</section>
-  
-##
-  
-<section>
-  <div>
-    <a href="https://www.linkedin.com/in/n%C3%ADcolas-oliveira-matos-b996b9227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-</section>
-  
-  <br>
+Prazer! Eu sou **Nícolas**, um graduando em Análise e Desenvolvimento de Sistemas. Escolhi esse curso, pois sou um jovem muito interessado pela tecnologia da informação, principalmente assuntos relacionados à programação.
+
+Me sinto muito satisfeito ao perceber minha própria evolução, por isso, tenho como **objetivo pessoal** uma melhoria constante, incluindo, é claro, áreas da programação e relacionadas.
+
+### Foco Atual
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+### Conhecimentos Menores
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+### Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nicolas-oliveira-matos-b996b9227/)
+[![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor)](mailto:nicolasoliveiramatos@gmail.com)
+[![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-FFF?style=for-the-badge&logoColor)](https://www.dio.me/users/nicolasoliveiramatos)
+<br><br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingKarpa&theme=transparent&bg_color=000&border_color=4b0082&show_icons=true&icon_color=50ABF8&title_color=1E91FF&text_color=FFF)
+#
+
+### Principais Repositórios
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KingKarpa&repo=Treino_Vanilla-Login-Layout&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/KingKarpa/Treino_Vanilla-Login-Layout)
