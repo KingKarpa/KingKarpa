@@ -23,9 +23,9 @@ Me sinto muito satisfeito ao perceber minha própria evolução, por isso, tenho
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-FFF?style=for-the-badge&logoColor)](https://www.dio.me/users/nicolasoliveiramatos)
 <br><br>
 
-<div style="display: flex; width: 100%; flex-wrap: wrap; gap: 16px">
-    <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api?username=KingKarpa&theme=transparent&bg_color=000&border_color=2F2F2F&show_icons=true&icon_color=c0c0c0&title_color=D4AF37&text_color=FFF">
-    <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingKarpa&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=000&border_color=2F2F2F&title_color=D4AF37&text_color=FFF">
+<div style="display: flex; width: 100%; flex-wrap: wrap;">
+    <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api?username=KingKarpa&theme=transparent&bg_color=000&border_color=2F2F2F&show_icons=true&icon_color=c0c0c0&title_color=D4AF37&text_color=FFF&card_width=400px">
+    <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingKarpa&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=000&border_color=2F2F2F&title_color=D4AF37&text_color=FFF&card_width=400px">
 </div>
 
 #
